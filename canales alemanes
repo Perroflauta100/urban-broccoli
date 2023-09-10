@@ -1,0 +1,220 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="-------- Germany --------" tvg-logo="" group-title="Free TV",-------- Germany --------
+http://digihoster224.access.ly:8080/1603422166/7256802073/8192
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Telekom | Das Erste (1080p)" tvg-logo="" group-title="Free TV",Telekom | Das Erste (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260024
+#EXTINF:-1 tvg-id="ard.de" tvg-name="[DE-Lokal] Das Erste HD" tvg-logo="http://151.80.38.45/picons-lokal/delokaldaserstehd.png" group-title="Free TV",[DE-Lokal] Das Erste HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246018
+#EXTINF:-1 tvg-id="ard.de" tvg-name="[DE] Das Erste " tvg-logo="http://151.80.38.45/picons/ard.png" group-title="Free TV",[DE] Das Erste 
+http://digihoster224.access.ly:8080/1603422166/7256802073/796
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="Telekom | ARD-alpha (1080p)" tvg-logo="" group-title="Free TV",Telekom | ARD-alpha (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260086
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="[DE-Lokal] ARD-alpha HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalardalphahd.png" group-title="Free TV",[DE-Lokal] ARD-alpha HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246012
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="[DE] ARD Alpha HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalardalphahd.png" group-title="Free TV",[DE] ARD Alpha HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248770
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="Telekom | ZDF (1080p)" tvg-logo="" group-title="Free TV",Telekom | ZDF (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260025
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="[DE-Lokal] ZDF HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalzdfhd.png" group-title="Free TV",[DE-Lokal] ZDF HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246041
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="[DE] ZDF " tvg-logo="http://151.80.38.45/picons/zdfhd.png" group-title="Free TV",[DE] ZDF 
+http://digihoster224.access.ly:8080/1603422166/7256802073/799
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="Telekom | ZDFneo (1080p)" tvg-logo="" group-title="Free TV",Telekom | ZDFneo (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260040
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="[DE-Lokal] zdf_neo HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalzdfneohd.png" group-title="Free TV",[DE-Lokal] zdf_neo HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246051
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="[DE]  ZDFneo" tvg-logo="http://151.80.38.45/picons/zdfneohd.png" group-title="Free TV",[DE]  ZDFneo
+http://digihoster224.access.ly:8080/1603422166/7256802073/851
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="Telekom | ZDFinfo (1080p)" tvg-logo="" group-title="Free TV",Telekom | ZDFinfo (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260087
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="[DE-Lokal] ZDFinfo HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalzdfinfohd.png" group-title="News-Doku",[DE-Lokal] ZDFinfo HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246042
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="[DE]  ZDF info" tvg-logo="http://151.80.38.45/picons/zdfinfo.png" group-title="News-Doku",[DE]  ZDF info
+http://digihoster224.access.ly:8080/1603422166/7256802073/871
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="Telekom | MDR-Fernsehen Sachsen (1080p)" tvg-logo="" group-title="Free TV",Telekom | MDR-Fernsehen Sachsen (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260044
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="[DE-Lokal] NDR FS NDS HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalndrfsndshd.png" group-title="Free TV",[DE-Lokal] NDR FS NDS HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246023
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="[DE] NDR" tvg-logo="http://151.80.38.45/picons/ndr.png" group-title="Free TV",[DE] NDR
+http://digihoster224.access.ly:8080/1603422166/7256802073/849
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Telekom | ARTE (1080p)" tvg-logo="" group-title="Free TV",Telekom | ARTE (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260064
+#EXTINF:-1 tvg-id="arte.de" tvg-name="[DE-Lokal] arte HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalartehd.png" group-title="Free TV",[DE-Lokal] arte HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246043
+#EXTINF:-1 tvg-id="arte.de" tvg-name="[DE]  Arte" tvg-logo="http://151.80.38.45/picons/artehd.png" group-title="Free TV",[DE]  Arte
+http://digihoster224.access.ly:8080/1603422166/7256802073/883
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Telekom | phoenix (1080p)" tvg-logo="" group-title="Free TV",Telekom | phoenix (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260038
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="[DE-Lokal] phoenix HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalphoenixhd.png" group-title="Free TV",[DE-Lokal] phoenix HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246048
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="[DE]  Phoenix" tvg-logo="http://151.80.38.45/picons/phoenix.png" group-title="News-Doku",[DE]  Phoenix
+http://digihoster224.access.ly:8080/1603422166/7256802073/870
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="Telekom | 3sat (1080p)" tvg-logo="" group-title="Free TV",Telekom | 3sat (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260035
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="[DE-Lokal] 3sat HD" tvg-logo="http://151.80.38.45/picons-lokal/delokal3sathd.png" group-title="Free TV",[DE-Lokal] 3sat HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246011
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="[DE] 3SAT" tvg-logo="http://151.80.38.45/picons/3sathd.png" group-title="Free TV",[DE] 3SAT
+http://digihoster224.access.ly:8080/1603422166/7256802073/845
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="Telekom | NDR Fernsehen Niedersachsen (1080p)" tvg-logo="" group-title="Free TV",Telekom | NDR Fernsehen Niedersachsen (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260045
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-name="[DE-Lokal] MDR Sachsen HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalmdrsachsenhd.png" group-title="Free TV",[DE-Lokal] MDR Sachsen HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246021
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="[DE] MDR" tvg-logo="http://151.80.38.45/picons/mdrhd.png" group-title="Free TV",[DE] MDR
+http://digihoster224.access.ly:8080/1603422166/7256802073/846
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="Telekom | rbb fernsehen Berlin (1080p)" tvg-logo="" group-title="Free TV",Telekom | rbb fernsehen Berlin (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260047
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="[DE-Lokal] rbb Berlin HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalrbbberlinhd.png" group-title="Free TV",[DE-Lokal] rbb Berlin HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246049
+#EXTINF:-1 tvg-id="brfernsehensud.de" tvg-name="Telekom | BR Fernsehen Süd (1080p)" tvg-logo="" group-title="Free TV",Telekom | BR Fernsehen Süd (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260042
+#EXTINF:-1 tvg-id="BRFernsehen.de" tvg-name="[DE-Lokal] BR Fernsehen Nord HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalbrfernsehennordhd.png" group-title="Free TV",[DE-Lokal] BR Fernsehen Nord HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246015
+#EXTINF:-1 tvg-id="br.de" tvg-name="[DE] BR" tvg-logo="http://151.80.38.45/picons/brhd.png" group-title="Free TV",[DE] BR
+http://digihoster224.access.ly:8080/1603422166/7256802073/49042
+#EXTINF:-1 tvg-id="hr.de" tvg-name="Telekom | hr-fernsehen (1080p)" tvg-logo="" group-title="Free TV",Telekom | hr-fernsehen (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260043
+#EXTINF:-1 tvg-id="hr.de" tvg-name="[DE-Lokal] hr-fernsehen HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalhrfernsehenhd.png" group-title="Free TV",[DE-Lokal] hr-fernsehen HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246045
+#EXTINF:-1 tvg-id="hr.de" tvg-name="[DE] HR" tvg-logo="http://151.80.38.45/picons/hrhd.png" group-title="Free TV",[DE] HR
+http://digihoster224.access.ly:8080/1603422166/7256802073/9617
+#EXTINF:-1 tvg-id="ANIXE+" tvg-name="Telekom | ANIXE+ (1080p)" tvg-logo="" group-title="Free TV",Telekom | ANIXE+ (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260066
+#EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="Telekom | ANIXE HD Serie (1080p)" tvg-logo="" group-title="Free TV",Telekom | ANIXE HD Serie (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260067
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="[DE-Lokal] ANIXE HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalanixehd.png" group-title="Free TV",[DE-Lokal] ANIXE HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246052
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="[DE] ANIXE" tvg-logo="http://151.80.38.45/picons/anixe.png" group-title="Free TV",[DE] ANIXE
+http://digihoster224.access.ly:8080/1603422166/7256802073/844
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="Telekom | SWR Fernsehen BW (1080p)" tvg-logo="" group-title="Free TV",Telekom | SWR Fernsehen BW (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260049
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="Telekom | SWR Fernsehen RP (1080p)" tvg-logo="" group-title="Free TV",Telekom | SWR Fernsehen RP (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260050
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="[DE-Lokal] SWR BW HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalswrbwhd.png" group-title="Free TV",[DE-Lokal] SWR BW HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246036
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="[DE]  SWR " tvg-logo="http://151.80.38.45/picons/swrhd.png" group-title="Free TV",[DE]  SWR 
+http://digihoster224.access.ly:8080/1603422166/7256802073/848
+#EXTINF:-1 tvg-id="srfernsehen.de" tvg-name="Telekom | SR Fernsehen (1080p)" tvg-logo="" group-title="Free TV",Telekom | SR Fernsehen (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260048
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="[DE-Lokal] SR Fernsehen HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalsrfernsehenhd.png" group-title="Free TV",[DE-Lokal] SR Fernsehen HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246035
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="Telekom | WDR Fernsehen Köln (1080p)" tvg-logo="" group-title="Free TV",Telekom | WDR Fernsehen Köln (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260051
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="[DE-Lokal] WDR HD Köln" tvg-logo="http://151.80.38.45/picons-lokal/delokalwdrhdkoln.png" group-title="Free TV",[DE-Lokal] WDR HD Köln
+http://digihoster224.access.ly:8080/1603422166/7256802073/246197
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="[DE]  WDR" tvg-logo="http://151.80.38.45/picons/wdr.png" group-title="Free TV",[DE]  WDR
+http://digihoster224.access.ly:8080/1603422166/7256802073/847
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="Telekom | RTL (1080p)" tvg-logo="" group-title="Free TV",Telekom | RTL (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260026
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="[DE-Lokal] RTL HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalrtlhd.png" group-title="Free TV",[DE-Lokal] RTL HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246068
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="[DE] RTL HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalrtlhd.png" group-title="Free TV",[DE] RTL HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248771
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="[DE-Lokal] RTL UHD" tvg-logo="http://151.80.38.45/picons-lokal/delokalrtluhd.png" group-title="UHD 4K",[DE-Lokal] RTL UHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246169
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="[DE-Lokal] RTLZWEI HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalrtlzweihd.png" group-title="Free TV",[DE-Lokal] RTLZWEI HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246069
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="Telekom | RTLZWEI (1080p)" tvg-logo="" group-title="Free TV",Telekom | RTLZWEI (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260031
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="[DE] RTL II HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalrtlzweihd.png" group-title="Free TV",[DE] RTL II HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248772
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="[DE-Lokal] RTLup HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalrtluphd.png" group-title="Free TV",[DE-Lokal] RTLup HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246070
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="Telekom | RTLup (1080p)" tvg-logo="" group-title="Free TV",Telekom | RTLup (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260077
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="Telekom | ProSieben (1080p)" tvg-logo="" group-title="Free TV",Telekom | ProSieben (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260028
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="[DE-Lokal] ProSieben HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalprosiebenhd.png" group-title="Free TV",[DE-Lokal] ProSieben HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246067
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="[DE] Prosieben " tvg-logo="http://151.80.38.45/picons/prosiebenhd.png" group-title="Free TV",[DE] Prosieben 
+http://digihoster224.access.ly:8080/1603422166/7256802073/825
+#EXTINF:-1 tvg-id="" tvg-name="[DE-Lokal] Pro7Sat.1 UHD" tvg-logo="http://151.80.38.45/picons-lokal/delokalpro7sat1uhd.png" group-title="UHD 4K",[DE-Lokal] Pro7Sat.1 UHD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246167
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="Telekom | ProSieben FUN (1080p)" tvg-logo="" group-title="Free TV",Telekom | ProSieben FUN (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260132
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="[DE-Lokal] ProSieben FUN HD" tvg-logo="http://151.80.38.45/picons/pro7fun.png" group-title="Free TV",[DE-Lokal] ProSieben FUN HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248799
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="[DE] ProSieben Fun HD" tvg-logo="http://151.80.38.45/picons/pro7fun.png" group-title="Free TV",[DE] ProSieben Fun HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248800
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Telekom | SAT.1 (1080p)" tvg-logo="" group-title="Free TV",Telekom | SAT.1 (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260027
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="[DE-Lokal] SAT.1 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalsat1hd.png" group-title="Free TV",[DE-Lokal] SAT.1 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246072
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="[DE]  Sat 1 " tvg-logo="http://151.80.38.45/picons/sat1hd.png" group-title="Free TV",[DE]  Sat 1 
+http://digihoster224.access.ly:8080/1603422166/7256802073/802
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="Telekom | Kabel Eins (1080p)" tvg-logo="" group-title="Free TV",Telekom | Kabel Eins (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260030
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="[DE-Lokal] kabel eins HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalkabeleinshd.png" group-title="Free TV",[DE-Lokal] kabel eins HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246085
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="[DE]  Kabel 1 " tvg-logo="http://151.80.38.45/picons/kabel1hd.png" group-title="Free TV",[DE]  Kabel 1 
+http://digihoster224.access.ly:8080/1603422166/7256802073/831
+#EXTINF:-1 tvg-id="vox.de" tvg-name="Telekom | VOX (1080p)" tvg-logo="" group-title="Free TV",Telekom | VOX (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260029
+#EXTINF:-1 tvg-id="vox.de" tvg-name="[DE-Lokal] VOX HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalvoxhd.png" group-title="Free TV",[DE-Lokal] VOX HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246081
+#EXTINF:-1 tvg-id="vox.de" tvg-name="[DE] VOX" tvg-logo="http://151.80.38.45/picons/voxhd.png" group-title="Free TV",[DE] VOX
+http://digihoster224.access.ly:8080/1603422166/7256802073/206520
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="Telekom | VOXup (1080p)" tvg-logo="" group-title="Free TV",Telekom | VOXup (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260084
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="[DE-Lokal] VOXup HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalvoxuphd.png" group-title="Free TV",[DE-Lokal] VOXup HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246082
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="Telekom | TELE 5 (1080p)" tvg-logo="" group-title="Free TV",Telekom | TELE 5 (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260039
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="[DE-Lokal] TELE 5 HD" tvg-logo="http://151.80.38.45/picons-lokal/delokaltele5hd.png" group-title="Free TV",[DE-Lokal] TELE 5 HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246079
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="[DE]  Tele 5" tvg-logo="http://151.80.38.45/picons/tele5hd.png" group-title="Free TV",[DE]  Tele 5
+http://digihoster224.access.ly:8080/1603422166/7256802073/837
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="[DE]  Pro7 Fun " tvg-logo="http://151.80.38.45/picons/pro7fun.png" group-title="Free TV",[DE]  Pro7 Fun 
+http://digihoster224.access.ly:8080/1603422166/7256802073/828
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Telekom | ProSieben MAXX (1080p)" tvg-logo="" group-title="Free TV",Telekom | ProSieben MAXX (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260075
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="[DE-Lokal] Pro7 MAXX HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalpro7maxxhd.png" group-title="Free TV",[DE-Lokal] Pro7 MAXX HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246066
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="[DE] Pro7 MAXX HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalpro7maxxhd.png" group-title="Free TV",[DE] Pro7 MAXX HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248773
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Telekom | SAT.1 emotions (1080p)" tvg-logo="" group-title="Free TV",Telekom | SAT.1 emotions (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260147
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="[DE-Lokal] SAT.1 emotions HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalsat1emotions.png" group-title="Free TV",[DE-Lokal] SAT.1 emotions HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246214
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="[DE-Lokal] SAT.1 emotions" tvg-logo="http://151.80.38.45/picons-lokal/delokalsat1emotions.png" group-title="Free TV",[DE-Lokal] SAT.1 emotions
+http://digihoster224.access.ly:8080/1603422166/7256802073/246170
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="[DE]  Sat.1 Emotions" tvg-logo="http://151.80.38.45/picons/sat1emotions.png" group-title="Free TV",[DE]  Sat.1 Emotions
+http://digihoster224.access.ly:8080/1603422166/7256802073/805
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Telekom | SAT.1 GOLD (1080p)" tvg-logo="" group-title="Free TV",Telekom | SAT.1 GOLD (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260079
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="[DE-Lokal] SAT.1 Gold HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalsat1goldhd.png" group-title="Free TV",[DE-Lokal] SAT.1 Gold HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246071
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="[DE] Sat.1 Gold HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalsat1goldhd.png" group-title="Free TV",[DE] Sat.1 Gold HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/248774
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Telekom | sixx (1080p)" tvg-logo="" group-title="Free TV",Telekom | sixx (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260081
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="[DE-Lokal] SIXX HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalsixxhd.png" group-title="Free TV",[DE-Lokal] SIXX HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246073
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="[DE]  Sixx" tvg-logo="http://151.80.38.45/picons/sixxhd.png" group-title="Free TV",[DE]  Sixx
+http://digihoster224.access.ly:8080/1603422166/7256802073/839
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="Telekom | TLC (1080p)" tvg-logo="" group-title="Free TV",Telekom | TLC (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260082
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="[DE-Lokal] TLC HD" tvg-logo="http://151.80.38.45/picons-lokal/delokaltlchd.png" group-title="Free TV",[DE-Lokal] TLC HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246080
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="[DE]  TLC" tvg-logo="http://151.80.38.45/picons/tlchd.png" group-title="Free TV",[DE]  TLC
+http://digihoster224.access.ly:8080/1603422166/7256802073/881
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Telekom | Kabel Eins CLASSICS (1080p)" tvg-logo="" group-title="Free TV",Telekom | Kabel Eins CLASSICS (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260130
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="[DE-Lokal] kabel eins CLASSICS HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalkabeleinsclassicshd.png" group-title="Free TV",[DE-Lokal] kabel eins CLASSICS HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246207
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="[DE-Lokal] kabel eins classics" tvg-logo="http://151.80.38.45/picons-lokal/delokalkabeleinsclassics.png" group-title="Free TV",[DE-Lokal] kabel eins classics
+http://digihoster224.access.ly:8080/1603422166/7256802073/246178
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="[DE]  Kabel 1 Classics" tvg-logo="http://151.80.38.45/picons/kabel1classic.png" group-title="Free TV",[DE]  Kabel 1 Classics
+http://digihoster224.access.ly:8080/1603422166/7256802073/832
+#EXTINF:-1 tvg-id="kronetv.at" tvg-name="[DE] Kronehit TV" tvg-logo="http://151.80.38.45/picons/kronehit.png" group-title="Music",[DE] Kronehit TV
+http://digihoster224.access.ly:8080/1603422166/7256802073/23382
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="Telekom | QVC (1080p)" tvg-logo="" group-title="Free TV",Telekom | QVC (1080p)
+http://digihoster224.access.ly:8080/1603422166/7256802073/260114
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="[DE-Lokal] QVC HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalqvchd.png" group-title="Free TV",[DE-Lokal] QVC HD
+http://digihoster224.access.ly:8080/1603422166/7256802073/246191
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="[DE] QVC" tvg-logo="http://151.80.38.45/picons-lokal/delokalqvchd.png" group-title="Free TV",[DE] QVC
+http://digihoster224.access.ly:8080/1603422166/7256802073/248775
+#EXTINF:-1 tvg-id="qvcstyle.de" tvg-name="[DE-Lokal] QVC STYLE HD" tvg-logo="http://151.80.38.45/picons-lokal/delokalqvcstylehd.png" group-title="Free TV",[DE-Lokal] QVC STYLE HD
+
+
+
+
